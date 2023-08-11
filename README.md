@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm AlphaCode</h1>
-<h3 align="center">A passionate FullStack Developer from Serbia</h3>
+<h3 align="center">A passionate FrontEnd Developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphacodedev99&label=Profile%20views&color=0e75b6&style=flat" alt="alphacodedev99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphacodedev99" alt="alphacodedev99" /></a> </p>
 
-- 🔭 I’m currently working on **FullStack (MERN) application**
-
-- 🌱 I’m currently learning **MongoDB/Express/ReactJS/NodeJS and more..**
-
+- 🔭 I’m currently working on **ReactJS/ReactNative and FullStack (MERN) application**
+  
 - 👯 I’m looking to collaborate on **makeing new modern web/mobile app**
 
 - 🤝 I’m looking for help with **MERN stack, where we can build toghether**
