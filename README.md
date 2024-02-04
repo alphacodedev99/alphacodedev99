@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **MERN stack, where we can build toghether**
 
-- 👨‍💻 All of my projects are available at [http://alphacode.alphamax.in.rs/](http://alphacode.alphamax.in.rs/)
+- 👨‍💻 All of my projects are available at [https://alphacodedeveloper.vercel.app/](https://alphacodedeveloper.vercel.app/)
 
 - 💬 Ask me about **Front-End-Development**
 
 - 📫 How to reach me **tihomir.milenkovic@hotmail.com**
 
-- 📄 Know about my experiences [http://alphacode.alphamax.in.rs/](http://alphacode.alphamax.in.rs/)
+- 📄 Know about my experiences [https://alphacodedeveloper.vercel.app/](https://alphacodedeveloper.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
